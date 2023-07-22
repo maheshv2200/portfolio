@@ -14,12 +14,12 @@ const portfolioData = [
     id: 2,
     name: "Ecommerce",
     image: ImageOne,
-    link: "https://www.youtube.com",
+    link: "",
   },
   {
     id: 3,
     name: "Notes App",
-    link: "",
+    link: "https://mahesh-quiz-app.netlify.app/",
     image: ImageTwo,
   },
   {
@@ -33,13 +33,13 @@ const portfolioData = [
     name: "Todo App",
     image: ImageFour,
 
-    link: "",
+    link: "https://crud-app-m.netlify.app/",
   },
   {
     id: 3,
     name: "Shopping cart design",
     image: ImageFive,
-    link: "",
+    link: "https://food-app-cart01.netlify.app/",
   },
 ];
 
